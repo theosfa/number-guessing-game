@@ -1,0 +1,6 @@
+[project]
+name="ngg"
+version="1.0.0"
+
+[project.scripts]
+ngg="ngg.__main__:entry_ngg"
