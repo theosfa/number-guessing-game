@@ -62,4 +62,4 @@ To start playing run:
 ```bash
 ngg
 ```
-[My solution on roadmap.sh](https://roadmap.sh/projects/github-user-activity/solutions?u=67c894f5fe4b7df03b736ad6)
+[My solution on roadmap.sh](https://roadmap.sh/projects/number-guessing-game/solutions?u=67c894f5fe4b7df03b736ad6)
