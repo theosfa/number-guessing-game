@@ -145,7 +145,12 @@ def main(args : list[str]) -> None:
         if ngg.checkLevel(inp):
             ngg.setLevel(inp)
             q = False
-    q = True
+        elif inp == "exit":
+            q = False
+    if inp == "exit":
+        q = False
+    else:
+        q = True
     while q:
         ngg.printGame()
         inp = input(ngg.getPrint())
